@@ -1,0 +1,15 @@
+{
+  "name": "curso_node",
+  "version": "1.0.0",
+  "description": "projeto de estudo de node js",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william mangoni",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
+}
